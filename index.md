@@ -5,3 +5,5 @@ We are a dedicated team of developers working on building a centralized hub for 
 # Team Members
 
 1. Jake Dickinson - Currently pursuing a Bachelor of Science in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii, Manoa. Interested in Game Development.
+
+2. Jayden Sagayaga - I am also currently pursuing a Bachelor of Science in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii, Manoa. My interests in this major is also about Game Develpment.
