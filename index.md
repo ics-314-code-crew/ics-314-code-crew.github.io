@@ -11,3 +11,7 @@ We are a dedicated team of developers working on building a centralized hub for 
 3. Eden Parungao - I am currently pursuing a Bachelor of Science in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii, Manoa. Some interests of mine when it comes to computer science is cybersecurity and game development.
 
 4. Nathan Chee - I am currently pursuing a Bachelor of Art in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I am very interested in the field of Cybersecurity and Software Enigneering.  
+
+# Team Contract
+
+<a href="https://docs.google.com/document/d/1PiApV3qOrppXNGaRf1kudZ24YolmkLwuc0Uw49lqp0w/edit?usp=sharing">Team Contract</a> 
