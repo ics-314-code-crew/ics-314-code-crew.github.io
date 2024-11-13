@@ -15,8 +15,8 @@ We are a dedicated team of developers working on building a centralized hub for 
 # Team Contract
 Our team has developed a <a href="https://docs.google.com/document/d/1PiApV3qOrppXNGaRf1kudZ24YolmkLwuc0Uw49lqp0w/edit?usp=sharing">Team Contract</a> to establish clear expectations within a team. The Contract outlines several criteria's for example, each members contribution and bahaviors. It also discuss solutions to conflicts that may errupt during our time as a team. If one fails to meet the agreed terms, then there shall be a three step process to try to de-esclate the situation.
 <br>
-    Step 1. Discuss the issue privately with the team member in 1-on-1.
+&emsp Step 1. Discuss the issue privately with the team member in 1-on-1.
 <br>
-    Step 2. Discuss with the team emphasizing the need for action.
+&emsp Step 2. Discuss with the team emphasizing the need for action.
 <br>
-    Step 3. Escalate to the instructor.
+&emsp Step 3. Escalate to the instructor.
