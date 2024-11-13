@@ -4,13 +4,13 @@ We are a dedicated team of developers working on building a centralized hub for 
 
 # Team Members
 
-1. Jake Dickinson - Currently pursuing a Bachelor of Science in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii, Manoa. Interested in Game Development.
+1. Jake Dickinson - I am currently pursuing a Bachelor of Science in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii, Manoa. I am interested in Game Development.
 
-2. Jayden Sagayaga - I am also currently pursuing a Bachelor of Science in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii, Manoa. My interests in this major is also about Game Develpment.
+2. Jayden Sagayaga - I am currently pursuing a Bachelor of Science in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii, Manoa. My interest in this major is in Game Development.
 
-3. Eden Parungao - I am currently pursuing a Bachelor of Science in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii, Manoa. Some interests of mine when it comes to computer science is cybersecurity and game development.
+3. Eden Parungao - I am currently pursuing a Bachelor of Science in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii, Manoa. Some interests of mine when it comes to computer science are cybersecurity and game development.
 
-4. Nathan Chee - I am currently pursuing a Bachelor of Art in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I am very interested in the field of Cybersecurity and Software Enigneering.  
+4. Nathan Chee - I am currently pursuing a Bachelor of Arts in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I am very interested in the field of Cybersecurity and Software Engineering.  
 
 # Team Contract
-Our team has developed a <a href="https://docs.google.com/document/d/1PiApV3qOrppXNGaRf1kudZ24YolmkLwuc0Uw49lqp0w/edit?usp=sharing">Team Contract</a> to establish clear expectations within the group. The contract outlines several criteria's such as each members contribution and bahaviors, and includes solutions to conflicts that may errupt during our time as a group. If a member fails to meet the agreed terms, then there shall be a process to try to de-escalate the situation. If that doesn't work, then it shall be escalated to the instructor. 
+Our team has developed a <a href="https://docs.google.com/document/d/1PiApV3qOrppXNGaRf1kudZ24YolmkLwuc0Uw49lqp0w/edit?usp=sharing">Team Contract</a> to establish clear expectations within the group. The contract outlines several criteria, such as each member’s contributions and behaviors, and includes solutions to conflicts that may arise during our time as a group. If a member fails to meet the agreed-upon terms, there will be a process to attempt to de-escalate the situation. If that does not work, it will be escalated to the instructor.
