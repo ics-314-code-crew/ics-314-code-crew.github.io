@@ -40,13 +40,14 @@ An Landing page after you have signed in.
 <p>A page that lists all of the clubs in a compact manner.</p>
 <img src="doc/list-club.png">
 
+<!-- 
 Future Features: 
 <h2>Friends List</h2>
 <p>A page that shows other users who have been added as members</p>
 <img src="doc/friends-list.png">
+ -->
 
-
-<h3>Progress So Far</h3>
+<h1>Progress So Far</h1>
 
 <h2>Landing Page<h2>
 <img src="doc/rLandingPage.png">
