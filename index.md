@@ -1,6 +1,5 @@
 <h1>Da Club</h1>
 
-Da Club
 <img src="/doc/daClubLogo.png">
 
 <h2>Overview</h2>
