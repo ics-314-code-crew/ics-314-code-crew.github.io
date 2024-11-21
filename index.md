@@ -83,6 +83,6 @@ Our team has developed a <a href="https://docs.google.com/document/d/1PiApV3qOrp
   <li>Milestone 3</li>
 </ul>
 <h2>Deployment</h2>
-Link to running <a href="https://daclub-ruddy.vercel.app/">Vervel</a>.
+Link to running <a href="https://daclub-ruddy.vercel.app/">Vercel</a>.
 <h2>GitHub Organization</h2>
 <a href="https://github.com/ics-314-code-crew">View ICS 314 Code Crew Organization</a>.
