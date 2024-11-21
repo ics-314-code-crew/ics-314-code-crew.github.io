@@ -48,7 +48,7 @@ Future Features:
 <h1>Progress So Far</h1>
 
 <h2>Landing Page<h2>
-<img src="doc/rLandingPage.png">
+<img src="doc/revisedLanding.png">
 
 <h2>Sign in Page<h2>
 <img src="doc/rSignInPage.png">
