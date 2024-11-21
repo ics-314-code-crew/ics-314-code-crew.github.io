@@ -1,7 +1,6 @@
 <h1>Da Club</h1>
 
 Da Club
-* <i>subjected to change</i>
 <img src="/doc/daClubLogo.png">
 
 <h2>Overview</h2>
