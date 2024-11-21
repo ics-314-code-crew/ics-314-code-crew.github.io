@@ -2,7 +2,7 @@
 
 Da Club
 * <i>subjected to change</i>
-<img src="">
+<img src="/doc/daClubLogo.png">
 
 <h2>Overview</h2>
 <b><i>The problem:</i></b> UH Manoa has over 200 <a href="https://manoa.hawaii.edu/studentlife/involvement/registered-independent-organizations/">Registered Independent Organizations</a>, plus many more that do not have this “official” status but are nonetheless active organizations. Unfortunately, there is no easy way for students to learn (a) what student clubs (both registered and unregistered) exist, what they do, and how to get further involved.
