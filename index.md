@@ -50,21 +50,22 @@ Future Features:
 <h2>Landing Page<h2>
 <img src="doc/revisedLanding.png">
 
-<h2>Sign in Page<h2>
+
+<h2>Sign In Page<h2>
 <img src="doc/rSignInPage.png">
 
 
-<h2>Add Club<h2>
-<img src="doc/rAddClub.png">
+<h2>Sign Out Page<h2>
+<img src="doc/signout-page.png">
 
 
-<h2>List Club<h2>
-<img src="doc/rListClub.png">
+<h2>Change Password Page<h2>
+<img src="doc/change-password-page.png">
 
-
+<!--
 <h2>Logged In Landing Page<h2>
 <img src="doc/rSignedInLanding.png">
-
+-->
 
 <h2>Sign Up Page<h2>
 <img src="doc/rSignUpPage.png">
