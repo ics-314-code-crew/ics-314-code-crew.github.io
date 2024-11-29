@@ -1,6 +1,7 @@
 <h1>Da Club</h1>
 
 <img src="/doc/daClubLogo.png">
+
 [![daclub](https://github.com/ics-314-code-crew/daclub/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-314-code-crew/daclub/actions/workflows/ci.yml)
 
 <h2>Overview</h2>
