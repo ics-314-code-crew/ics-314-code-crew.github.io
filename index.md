@@ -1,7 +1,7 @@
 <h1>Da Club</h1>
 
 <img src="/doc/daClubLogo.png">
-![ci-badge](https://github.com/ics-314-code-crew/daclub/workflows/daclub/badge.svg)
+[![daclub](https://github.com/ics-314-code-crew/daclub/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-314-code-crew/daclub/actions/workflows/ci.yml)
 
 <h2>Overview</h2>
 <b><i>The problem:</i></b> UH Manoa has over 200 <a href="https://manoa.hawaii.edu/studentlife/involvement/registered-independent-organizations/">Registered Independent Organizations</a>, plus many more that do not have this “official” status but are nonetheless active organizations. Unfortunately, there is no easy way for students to learn (a) what student clubs (both registered and unregistered) exist, what they do, and how to get further involved.
