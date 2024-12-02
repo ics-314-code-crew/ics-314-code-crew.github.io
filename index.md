@@ -73,15 +73,21 @@ Future Features:
 <img src="doc/rSignUpPage.png">
 
 <h2>Updated Landing Page</h2>
-<img src="doc/new-landing-page.png"
+<img src="doc/new-landing-page.png">
 
 <h2>Adding a Club</h2>
+<h3>Top of then Add Club Form</h3>
 <img src="doc/add-club-page1.png">
+<h3>Bottom of then Add Club Form</h3>
 <img src="doc/add-club-page2.png">
 
 <h2>Editing a Club</h2>
+This page for club admins when they want to make changes to their club's information.
+<h3>Managing Club Page</h3>
 <img src="doc/edit-club-page1.png">
+<h3>Top of the Edit Club Form</h3>
 <img src="doc/edit-club-page2.png">
+<h3>Bottom of the Edit Club Form</h3>
 <img src="doc/edit-club-page3.png">
 
 <h2>More details of the Club Page</h2>
