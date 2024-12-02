@@ -116,6 +116,6 @@ Our team has developed a <a href="https://docs.google.com/document/d/1PiApV3qOrp
   <li><a href="https://github.com/orgs/ics-314-code-crew/projects/8">Milestone 3</a></li>
 </ul>
 <h2>Deployment</h2>
-Link to running <a href="https://daclub-ruddy.vercel.app/">Vercel</a>.
+Link to running <a href="https://daclub-omega.vercel.app/">Vercel</a>.
 <h2>GitHub Organization</h2>
 <a href="https://github.com/ics-314-code-crew">View ICS 314 Code Crew Organization</a>.
