@@ -72,6 +72,22 @@ Future Features:
 <h2>Sign Up Page<h2>
 <img src="doc/rSignUpPage.png">
 
+<h2>Updated Landing Page</h2>
+<img src="doc/new-landing-page.png"
+
+<h2>Adding a Club</h2>
+<img src="doc/add-club-page1.png">
+<img src="doc/add-club-page2.png">
+
+<h2>Editing a Club</h2>
+<img src="doc/edit-club-page1.png">
+<img src="doc/edit-club-page2.png">
+<img src="doc/edit-club-page3.png">
+
+<h2>More details of the Club Page</h2>
+<img src="doc/club-page-details.png">
+
+
 
 <h2>Team</h2>
 Da Club is designed, implemented, and maintained by <a href="https://github.com/Dodie-Mad">Dodie Madriaga</a>, <a href="https://github.com/edenkp">Eden K. Parungao</a>, <a href="https://github.com/jaked332">Jake Dickinson</a>, <a href="https://github.com/JaySaga22">Jayden Sagayaga</a>, and <a href="https://github.com/Nate2389">Nathan Chee</a>.
