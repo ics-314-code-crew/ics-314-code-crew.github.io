@@ -81,6 +81,10 @@ Future Features:
 <h3>Bottom of then Add Club Form</h3>
 <img src="doc/add-club-page2.png">
 
+<h2>Club List Page</h2>
+<img src="doc/club-list-page.png">
+
+
 <h2>Editing a Club</h2>
 This page for club admins when they want to make changes to their club's information.
 <h3>Managing Club Page</h3>
@@ -103,7 +107,7 @@ Our team has developed a <a href="https://docs.google.com/document/d/1PiApV3qOrp
 <ul>
   <li><a href="https://github.com/orgs/ics-314-code-crew/projects/1">Milestone 1</a></li>
   <li><a href="https://github.com/orgs/ics-314-code-crew/projects/5">Milestone 2</a></li>
-  <li>Milestone 3</li>
+  <li><a href="https://github.com/orgs/ics-314-code-crew/projects/8">Milestone 3</a></li>
 </ul>
 <h2>Deployment</h2>
 Link to running <a href="https://daclub-ruddy.vercel.app/">Vercel</a>.
