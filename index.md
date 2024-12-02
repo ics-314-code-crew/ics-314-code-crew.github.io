@@ -47,7 +47,7 @@ Future Features:
 <img src="doc/friends-list.png">
  -->
 
-<h1>Progress So Far</h1>
+<h1>Milestone 1</h1>
 
 <h2>Landing Page<h2>
 <img src="doc/revisedLanding.png">
@@ -72,14 +72,19 @@ Future Features:
 <h2>Sign Up Page<h2>
 <img src="doc/rSignUpPage.png">
 
+
+<h1>Milestone 2</h1>
+
 <h2>Updated Landing Page</h2>
 <img src="doc/new-landing-page.png">
+
 
 <h2>Adding a Club</h2>
 <h3>Top of then Add Club Form</h3>
 <img src="doc/add-club-page1.png">
 <h3>Bottom of then Add Club Form</h3>
 <img src="doc/add-club-page2.png">
+
 
 <h2>Club List Page</h2>
 <img src="doc/club-list-page.png">
@@ -93,6 +98,7 @@ This page for club admins when they want to make changes to their club's informa
 <img src="doc/edit-club-page2.png">
 <h3>Bottom of the Edit Club Form</h3>
 <img src="doc/edit-club-page3.png">
+
 
 <h2>More details of the Club Page</h2>
 <img src="doc/club-page-details.png">
