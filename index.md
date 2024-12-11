@@ -28,24 +28,30 @@ An Sign up form to create an account.
 An sign page form to sign in.
 <img src="doc/sign-in-page.png">
 
-<h2>Landing page</h2>
+<h2>Landing Page</h2>
 An Landing page after you have signed in.
 <img src="doc/da-club-landing-2.png">
 
-<h2>Add club</h2>
+<h2>Add Club</h2>
 <p>An add form to add a club as a club admin. Filling out the respective prompts.</p>
 <img src="doc/add-club.png">
 
-<h2>List club</h2>
+<h2>List Club</h2>
 <p>A page that lists all of the clubs in a compact manner.</p>
 <img src="doc/list-club.png">
 
-<!-- 
-Future Features: 
-<h2>Friends List</h2>
-<p>A page that shows other users who have been added as members</p>
-<img src="doc/friends-list.png">
- -->
+
+<h2>Installation</h2>
+<p>Here are the directions to accessing our app:</p>
+<p>Go to our <a href="https://github.com/ics-314-code-crew/daclub">Project Repo</a>. Click on the Code button to and you can either open with github desktop or download a zip file.</p>
+<p>Once you have it in you computer, go to your terminal and input the commands:</p>
+<p>npm install</p>
+<p>and</p> 
+<p>npm install react-toastify</p>
+<p>Then finally type this command into the terminal:</p>
+<p>npm run dev</p>
+<p>This should take you to a http://localhost:3000 which will openup the app in your brower.</p>
+
 
 <h1>Milestone 1</h1>
 
