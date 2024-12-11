@@ -126,6 +126,11 @@ Five UH community members were needed to test out the application, so each membe
 Insert information for developer guide here.
 -->
 
+<h1>Milestone 3</h1>
+
+<p>These are some final touches to app. The image below is Milestone 3 project board.</p>
+<img src="doc/m3.png">
+
 <h2>Team</h2>
 Da Club is designed, implemented, and maintained by <a href="https://github.com/Dodie-Mad">Dodie Madriaga</a>, <a href="https://github.com/edenkp">Eden K. Parungao</a>, <a href="https://github.com/jaked332">Jake Dickinson</a>, <a href="https://github.com/JaySaga22">Jayden Sagayaga</a>, and <a href="https://github.com/Nate2389">Nathan Chee</a>.
 <h2>Team Contract</h2>
