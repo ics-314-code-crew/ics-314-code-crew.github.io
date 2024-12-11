@@ -131,6 +131,9 @@ Insert information for developer guide here.
 <p>These are some final touches to app. The image below is Milestone 3 project board.</p>
 <img src="doc/m3.png">
 
+<h2>Review Form</h2>
+<p>Here is the <a href="https://docs.google.com/forms/d/1GJapqBg99xuExSsTz5M-ukIoxchWDOzvC3Gqd-YAFM0/edit?ts=6759f529">form to review our app</a>.</p>
+
 <h2>Team</h2>
 Da Club is designed, implemented, and maintained by <a href="https://github.com/Dodie-Mad">Dodie Madriaga</a>, <a href="https://github.com/edenkp">Eden K. Parungao</a>, <a href="https://github.com/jaked332">Jake Dickinson</a>, <a href="https://github.com/JaySaga22">Jayden Sagayaga</a>, and <a href="https://github.com/Nate2389">Nathan Chee</a>.
 <h2>Team Contract</h2>
