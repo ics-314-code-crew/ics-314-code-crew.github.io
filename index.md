@@ -109,23 +109,6 @@ This page for club admins when they want to make changes to their club's informa
 <h2>More details of the Club Page</h2>
 <img src="doc/club-page-details.png">
 
-<!--
-<h1>Milestone 3</h1>
-
-<h2>Community Feedback</h2>
-Five UH community members were needed to test out the application, so each member of the group was required to find one person for feedback. This is the feedback we have received from our five chosen people:
-<ul>
-  <li>Member 1: (feedback)</li>
-  <li>Member 2: (feedback)</li>
-  <li>Member 3: (feedback)</li>
-  <li>Member 4: (feedback)</li>
-  <li>Member 5: (feedback)</li>
-</ul>
-
-<h2>Developer Guide</h2>
-Insert information for developer guide here.
--->
-
 <h1>Milestone 3</h1>
 
 <p>These are some final touches to app. The image below is Milestone 3 project board.</p>
