@@ -93,8 +93,8 @@ This page for club admins when they want to make changes to their club's informa
 <img src="doc/profile-m3.png">
 <img src="doc/edit-profile-m3.png">
 <h2>Adding a Club</h2>  
-<p>Site Admins or Club Owners can add clubs with a diverse set of parameters to allow for club expressiveness.</p>
 <h3>Top of Add Club Form</h3>
+<p>Site Admins or Club Owners can add clubs with a diverse set of parameters to allow for club expressiveness.</p>
 <img src="doc/add-club-m3-1.png">
 <h3>Bottom of Add Club Form</h3>
 <img src="doc/add-club-m3-2.png">
