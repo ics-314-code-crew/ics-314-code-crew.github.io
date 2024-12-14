@@ -116,7 +116,9 @@ This page for club admins when they want to make changes to their club's informa
 <p>Here is the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkbjbfGLN90bl0CNdPvrDSTuAIf0_C34MfQDvW4K79vFWJkA/viewform?usp=sf_link">form to review our app</a>.</p>
 
 <h2>Community Feedback</h2>
+<p>Of the feedback given, DaClub seems to accomplish its objective of being a central directory for UH Manoa's student clubs. The community feedback given points out the sites ease of use and navigation of pages and features. Clubs were able to be presented in a neat and aesthetic fashion. When it came to functionality, the users commented on the minimalistic and intuitive approach in the features, noting how easy it was to sign up, edit profiles, and even chaning passwords</p>
 <p></p>
+
 <h2>Team</h2>
 Da Club is designed, implemented, and maintained by <a href="https://github.com/Dodie-Mad">Dodie Madriaga</a>, <a href="https://github.com/edenkp">Eden K. Parungao</a>, <a href="https://github.com/jaked332">Jake Dickinson</a>, <a href="https://github.com/JaySaga22">Jayden Sagayaga</a>, and <a href="https://github.com/Nate2389">Nathan Chee</a>.
 <h2>Team Contract</h2>
