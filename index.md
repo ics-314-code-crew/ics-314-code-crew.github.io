@@ -46,8 +46,6 @@ An Landing page after you have signed in.
 <p>Go to our <a href="https://github.com/ics-314-code-crew/daclub">Project Repo</a>. Click on the Code button to and you can either open with github desktop or download a zip file.</p>
 <p>Once you have it in you computer, go to your terminal and input the commands:</p>
 <p>npm install</p>
-<p>and</p> 
-<p>npm install react-toastify</p>
 <p>Then finally type this command into the terminal:</p>
 <p>npm run dev</p>
 <p>This should take you to a http://localhost:3000 which will openup the app in your brower.</p>
