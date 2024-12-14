@@ -68,11 +68,6 @@ An Landing page after you have signed in.
 <h2>Change Password Page<h2>
 <img src="doc/change-password-page.png">
 
-<!--
-<h2>Logged In Landing Page<h2>
-<img src="doc/rSignedInLanding.png">
--->
-
 <h2>Sign Up Page<h2>
 <img src="doc/rSignUpPage.png">
 
@@ -112,6 +107,34 @@ This page for club admins when they want to make changes to their club's informa
 <p>These are some final touches to app. The image below is Milestone 3 project board.</p>
 <img src="doc/m3.png">
 
+
+<h2>Updated Landing Page</h2>
+<h3>For Unauthenticated Users</h3>
+<img src="doc/unauth-landing.png">
+<h3>For Authenticated Users</h3>
+<img src="doc/auth-landing.png">
+
+<h2>Updated Sign In Page</h2>
+<img src="doc/sign-in-m3.png">
+
+<h2>Adding a Club</h2>
+...
+
+<h2>Editing a Club</h2>
+<p>Site Admins or Club Owners can Edit clubs.</p>
+<img src="doc/editclubbutton.png">
+<p>Then the user can modify pre-filled fields:</p>
+<img src="doc/populated-edit.png">
+
+<h2>Club List</h2>
+<h3>Search</h3>
+<p>All site users can utilize the semantic search functionality and search for clubs based on name or interest areas. For example:</p>
+<img src="doc/search.png">
+
+<h3>Copy to Clipboard!</h3>
+<p>For streamlining access to information. Users can copy club admin emails with a button.</p>
+<img src="doc/copytoclip.png">
+
 <h2>Review Form</h2>
 <p>Here is the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkbjbfGLN90bl0CNdPvrDSTuAIf0_C34MfQDvW4K79vFWJkA/viewform?usp=sf_link">form to review our app</a>.</p>
 
@@ -120,7 +143,7 @@ This page for club admins when they want to make changes to their club's informa
 <h2>Team</h2>
 Da Club is designed, implemented, and maintained by <a href="https://github.com/Dodie-Mad">Dodie Madriaga</a>, <a href="https://github.com/edenkp">Eden K. Parungao</a>, <a href="https://github.com/jaked332">Jake Dickinson</a>, <a href="https://github.com/JaySaga22">Jayden Sagayaga</a>, and <a href="https://github.com/Nate2389">Nathan Chee</a>.
 <h2>Team Contract</h2>
-Our team has developed a <a href="https://docs.google.com/document/d/1PiApV3qOrppXNGaRf1kudZ24YolmkLwuc0Uw49lqp0w/edit?usp=sharing">Team Contract</a> to establish clear expectations within the group. The contract outlines several criteria, such as each member’s contributions and behaviors, and includes solutions to conflicts that may arise during our time as a group. If a member fails to meet the agreed-upon terms, there will be a process to attempt to de-escalate the situation. If that does not work, it will be escalated to the instructor.
+Our team has developed a <a href="https://docs.google.com/document/d/1PiApV3qOrppXNGaRf1kudZ24YolmkLwuc0Uw49lqp0w/edit?usp=sharing">team contract</a> to establish clear expectations within the group. The contract outlines several criteria, such as each member’s contributions and behaviors, and includes solutions to conflicts that may arise during our time as a group. If a member fails to meet the agreed-upon terms, there will be a process to attempt to de-escalate the situation. If that does not work, it will be escalated to the instructor.
 <h2>Milestones</h2>
 <ul>
   <li><a href="https://github.com/orgs/ics-314-code-crew/projects/1">Milestone 1</a></li>
@@ -130,4 +153,4 @@ Our team has developed a <a href="https://docs.google.com/document/d/1PiApV3qOrp
 <h2>Deployment</h2>
 Link to running <a href="https://daclub-omega.vercel.app/">Vercel</a>.
 <h2>GitHub Organization</h2>
-<a href="https://github.com/ics-314-code-crew">View ICS 314 Code Crew Organization</a>.
+<a href="https://github.com/ics-314-code-crew">View organization on GitHub</a>.
