@@ -104,15 +104,13 @@ This page for club admins when they want to make changes to their club's informa
 
 <h1>Milestone 3</h1>
 
-<p>These are some final touches to app. The image below is Milestone 3 project board.</p>
 <img src="doc/m3.png">
-
 
 <h2>Updated Landing Page</h2>
 <h3>For Unauthenticated Users</h3>
-<img src="doc/unauth-landing.png">
+<img src="doc/unauth-landing-m3.png">
 <h3>For Authenticated Users</h3>
-<img src="doc/auth-landing.png">
+<img src="doc/auth-landing-m3.png">
 
 <h2>Updated Sign In Page</h2>
 <img src="doc/sign-in-m3.png">
