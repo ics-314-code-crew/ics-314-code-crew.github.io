@@ -117,6 +117,8 @@ This page for club admins when they want to make changes to their club's informa
 <h2>Review Form</h2>
 <p>Here is the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkbjbfGLN90bl0CNdPvrDSTuAIf0_C34MfQDvW4K79vFWJkA/viewform?usp=sf_link">form to review our app</a>.</p>
 
+<h2>Community Feedback</h2>
+<p></p>
 <h2>Team</h2>
 Da Club is designed, implemented, and maintained by <a href="https://github.com/Dodie-Mad">Dodie Madriaga</a>, <a href="https://github.com/edenkp">Eden K. Parungao</a>, <a href="https://github.com/jaked332">Jake Dickinson</a>, <a href="https://github.com/JaySaga22">Jayden Sagayaga</a>, and <a href="https://github.com/Nate2389">Nathan Chee</a>.
 <h2>Team Contract</h2>
