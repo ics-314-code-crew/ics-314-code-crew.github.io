@@ -177,7 +177,7 @@ This page for club admins when they want to make changes to their club's informa
 <p>For streamlining access to information. Users can copy club admin emails with a button.</p>
 <img src="doc/copytoclip.png">
 <h3>View Club Information</h3>
-<p>The club table was seeded with actual RIO data from the approved UH Manoa [RIO Excel sheet](https://docs.google.com/spreadsheets/d/1vK_ixq3a86uXjHXy9oNnyYHwAvyU9smNPKuJU6OYd-Q/edit?gid=828154192#gid=828154192). Note that some information was randomly generated, e.g., room number, since the source data did not provide such information.</p>
+<p>The club table was seeded with actual RIO data from the approved UH Manoa <a href="https://docs.google.com/spreadsheets/d/1vK_ixq3a86uXjHXy9oNnyYHwAvyU9smNPKuJU6OYd-Q/edit?gid=828154192#gid=828154192">RIO Excel sheet</a>. Note that some information was randomly generated, e.g., room number, since the source data did not provide such information.</p>
 <img src="doc/clubpage.png">
 
 <hr/>
