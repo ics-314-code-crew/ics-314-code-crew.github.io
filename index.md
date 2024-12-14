@@ -1,9 +1,15 @@
 <h1>Da Club</h1>
 <img src="/doc/daClubLogo.png">
 [![daclub](https://github.com/ics-314-code-crew/daclub/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-314-code-crew/daclub/actions/workflows/ci.yml)
+
+<hr/>
+
 <h2>Overview</h2>
 <b><i>The problem:</i></b> UH Manoa has over 200 <a href="https://manoa.hawaii.edu/studentlife/involvement/registered-independent-organizations/">Registered Independent Organizations</a>, plus many more that do not have this "official" status but are nonetheless active organizations. Unfortunately, there is no easy way for students to learn (a) what student clubs (both registered and unregistered) exist, what they do, and how to get further involved.
 <b><i>The solution:</i></b> The Club Hub application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
+
+<hr/>
+
 <h2>Approach</h2>
 Club Hub will have the following roles, requiring a UH ID to register: 
 <ul>
@@ -27,14 +33,70 @@ An Landing page after you have signed in.
 <h2>List Club</h2>
 <p>A page that lists all of the clubs in a compact manner.</p>
 <img src="doc/list-club.png">
-<h2>Installation</h2>
+
+<hr/>
+
+<h2>User Guide</h2>
+This guide will help users understand how to navigate and use the Club Hub application effectively.
+
+<h3>Getting Started</h3>
+1. **Visit the App**: Access the Club Hub application by visiting the deployed site on <a href="https://daclub-omega.vercel.app/">Vercel</a>.  
+2. **Create an Account**:  
+   - Click on the **Sign Up** button on the homepage.  
+   - Fill out the required information (e.g., name, email, UH ID, and password).  
+   - Submit the form to create your account.  
+3. **Log In**:
+   - Once registered, go to the **Sign In** page.  
+   - Enter your email and password to access your profile and Club Hub's features.
+
+<h3>Using the Features</h3>
+
+<b>Browsing Clubs:</b>  
+- Navigate to **List Clubs** to see a list of clubs available at UH Manoa.  
+- Use the **Search Bar** to find clubs by name or interest area (e.g., "athletics," "art," or "music").  
+- Click on any club to view detailed information, including meeting times, contact info, and more.
+
+<b>Adding a Club:</b>  
+- Once logged in, go to the **Add Club** page.  
+- Fill in the form with club details such as name, description, meeting times, locations, interest areas, and gallery photos.  
+- Submit the form to add the club to the directory.  
+- Note: Only registered users can add clubs.
+
+<b>Editing Club Information:</b>  
+- Club owners can edit their club details by navigating to the club list and clicking the **Edit Club** button.  
+- Update any fields as necessary and save changes.
+
+<b>Copy Club Contact Info:</b>  
+- Use the **Copy to Clipboard** button to quickly copy the contact email for club administrators. This streamlines communication for potential members.
+
+<h3>Managing Your Profile</h3>
+- Go to the **User Profile** page to view and manage your account details.  
+- Use the **Edit Profile** option to update personal information, such as your name, email, or password.
+
+<h3>FAQs</h3>
+<b>Q: What do I need to register?</b>  
+A: You need a valid UH ID, email address, and a password to create an account.
+
+<b>Q: How do I contact a club?</b>  
+A: Each club page displays contact information, including the club administrator's email.
+
+<b>Q: Who can add or edit clubs?</b>  
+A: Only registered users can add clubs, while club owners and admins can edit club details.
+
+<hr/>
+
+<h2>Developer Guide</h2>
 <p>Here are the directions to accessing our app:</p>
-<p>Go to our <a href="https://github.com/ics-314-code-crew/daclub">Project Repo</a>. Click on the Code button to and you can either open with github desktop or download a zip file.</p>
+<p>Go to our <a href="https://github.com/ics-314-code-crew/daclub">Project Repo</a>. Click on the Code button to and you can either open with GitHub Desktop or download a zip file.</p>
 <p>Once you have it in you computer, go to your terminal and input the commands:</p>
 <p>npm install</p>
+<p>Once the packages are installed in the repo, run the following command to seed:</p>
+<p>npx prisma migrate dev</p>
 <p>Then finally type this command into the terminal:</p>
 <p>npm run dev</p>
 <p>This should take you to a http://localhost:3000 which will openup the app in your brower.</p>
+
+<hr/>
 
 <h1>Milestone 1</h1>
 <h2>
@@ -90,8 +152,12 @@ This page for club admins when they want to make changes to their club's informa
 <h2>Sign Up Page</h2>
 <img src="doc/sign-up.png">
 <h2>User Profile</h2>
+<h3>Users can view their profile information.</h3>
 <img src="doc/profile-m3.png">
+<h3>For increasing flexibility, they can also modify it.</h3>
 <img src="doc/edit-profile-m3.png">
+<h3>Users also have the ability to delete their profile.</h3>
+<img src="doc/delete-profile.png">
 <h2>Adding a Club</h2>
 <h3>Top of Add Club Form</h3>
 <img src="doc/add-club-m3-1.png">
@@ -113,16 +179,22 @@ This page for club admins when they want to make changes to their club's informa
 <p>The club table was seeded with actual RIO data from the approved UH Manoa [RIO Excel sheet](https://docs.google.com/spreadsheets/d/1vK_ixq3a86uXjHXy9oNnyYHwAvyU9smNPKuJU6OYd-Q/edit?gid=828154192#gid=828154192). Note that some information was randomly generated, e.g., room number, since the source data did not provide such information.</p>
 <img src="doc/clubpage.png">
 
+<hr/>
+
 <h2>Review Form</h2>
 <p>Here is the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkbjbfGLN90bl0CNdPvrDSTuAIf0_C34MfQDvW4K79vFWJkA/viewform?usp=sf_link">form to review our app</a>.</p>
 <h2>Community Feedback</h2>
 <p>Of the feedback given, DaClub seems to accomplish its objective of being a central directory for UH Manoa's student clubs. The community feedback given points out the site's ease of use and smooth navigation across pages and features. Clubs were presented in a neat and aesthetic fashion. When it came to functionality, the users commented on the minimalistic and intuitive approach in the features, noting how easy it was to sign up, edit profiles, and even changing passwords. As for the design aspects, they were described as organized and simple yet well executed.</p>
 <p>The community did highlight some of the site's shortcomings. The most prominent was the lack of a way to quickly sort through clubs via a lack of a bottom or top page button and a proper filter. A recommended improvement was to add a sort based on category like 'computer' for computer science related clubs. Another suggestion talked about chat rooms or bulletins where clubs can post events or news, helping people to get a gaige of what to expect for events rather than just looking at the descriptions.</p>
 
+<hr/>
+
 <h2>Team</h2>
 Da Club is designed, implemented, and maintained by <a href="https://github.com/Dodie-Mad">Dodie Madriaga</a>, <a href="https://github.com/edenkp">Eden K. Parungao</a>, <a href="https://github.com/jaked332">Jake Dickinson</a>, <a href="https://github.com/JaySaga22">Jayden Sagayaga</a>, and <a href="https://github.com/Nate2389">Nathan Chee</a>.
 <h2>Team Contract</h2>
-Our team has developed a <a href="https://docs.google.com/document/d/1PiApV3qOrppXNGaRf1kudZ24YolmkLwuc0Uw49lqp0w/edit?usp=sharing">team contract</a> to establish clear expectations within the group. The contract outlines several criteria, such as each member’s contributions and behaviors, and includes solutions to conflicts that may arise during our time as a group. If a member fails to meet the agreed-upon terms, there will be a process to attempt to de-escalate the situation. If that does not work, it will be escalated to the instructor.
+Our team has developed a <a href="https://docs.google.com/document/d/1PiApV3qOrppXNGaRf1kudZ24YolmkLwuc0Uw49lqp0w/edit?usp=sharing">team contract</a> to establish clear expectations within the group. The contract outlines several criteria, such as each member's contributions and behaviors, and includes solutions to conflicts that may arise during our time as a group. If a member fails to meet the agreed-upon terms, there will be a process to attempt to de-escalate the situation. If that does not work, it will be escalated to the instructor.
+
+<hr/>
 
 <h2>Milestones</h2>
 <ul>
@@ -131,8 +203,12 @@ Our team has developed a <a href="https://docs.google.com/document/d/1PiApV3qOrp
    <li><a href="https://github.com/orgs/ics-314-code-crew/projects/8">Milestone 3</a></li>
 </ul>
 
+<hr/>
+
 <h2>Deployment</h2>
 Link to running <a href="https://daclub-omega.vercel.app/">Vercel</a>.
+
+<hr/>
 
 <h2>GitHub Organization</h2>
 <a href="https://github.com/ics-314-code-crew">View organization on GitHub</a>.
