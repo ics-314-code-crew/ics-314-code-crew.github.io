@@ -106,17 +106,25 @@ This page for club admins when they want to make changes to their club's informa
 
 <img src="doc/m3.png">
 
-<h2>Updated Landing Page</h2>
+<h2>Landing Page</h2>
 <h3>For Unauthenticated Users</h3>
 <img src="doc/unauth-landing-m3.png">
 <h3>For Authenticated Users</h3>
 <img src="doc/auth-landing-m3.png">
 
-<h2>Updated Sign In Page</h2>
+<h2>Sign In Page</h2>
 <img src="doc/sign-in-m3.png">
 
+<h2>Sign Up Page</h2>
+<img src="doc/sign-up.png">
+
+<h2>User Profile</h2>
+<img src="doc/profile-m3.png">
+<img src="doc/edit-profile-m3.png">
+
 <h2>Adding a Club</h2>
-...
+<img src="doc/add-club-m3-1.png">
+<img src="doc/add-club-m3-2.png">
 
 <h2>Editing a Club</h2>
 <p>Site Admins or Club Owners can Edit clubs.</p>
@@ -132,6 +140,10 @@ This page for club admins when they want to make changes to their club's informa
 <h3>Copy to Clipboard!</h3>
 <p>For streamlining access to information. Users can copy club admin emails with a button.</p>
 <img src="doc/copytoclip.png">
+
+<h3>View Club Information</h3>
+<p>The club table was seeded with actual RIO data from the approved UH Manoa [RIO Excel sheet](https://docs.google.com/spreadsheets/d/1vK_ixq3a86uXjHXy9oNnyYHwAvyU9smNPKuJU6OYd-Q/edit?gid=828154192#gid=828154192). Note that some information was randomly generated, e.g., room number, since the source data did not provide such information.</p>
+<img src="doc/clubpage.png">
 
 <h2>Review Form</h2>
 <p>Here is the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkbjbfGLN90bl0CNdPvrDSTuAIf0_C34MfQDvW4K79vFWJkA/viewform?usp=sf_link">form to review our app</a>.</p>
